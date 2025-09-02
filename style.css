@@ -1,0 +1,81 @@
+/* h1{
+    color :green ;
+}
+p{
+    color:purple;
+}
+button{
+    color:Brown
+}
+body{
+    background-color:#ffff00;
+
+}
+button{
+    background-color:white;
+} */
+ /* /* *{
+    color:pink
+ }
+ /* h1{
+    color:green
+ } */
+ /* button{
+    color:brown
+ }
+ #headingOne{
+    color:skyblue;
+ }
+ #headingTwo{
+    color:blueviolet;
+ }
+ .myClass{
+    color:magenta; */
+ } */
+ #box {
+    background-color: blue;
+ }
+ .heading{
+    color:red;
+
+ }
+ button {
+    color:green;
+ }
+ p {
+    text-align :center;
+ }
+h1{
+    text-align: center;
+    text-decoration:black underline;
+}
+a{
+    text-decoration: none;
+}
+#h1 {
+    font-weight: normal;
+}
+#one {
+    font-family: arial;
+}
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#one {
+    font-size:20px;;
+    line-height: normal;
+    text-transform: lowercase;
+} */
+*{
+    font-family:'Times New Roman', Times, serif ;
+}
+h1{
+    text-align: center;
+    text-transform:capitalize ;
+}
+#outer {
+    font-size: 50px;
+}
+#inner {
+    font-size: 10px;
+}
